@@ -7,6 +7,7 @@ elif n == 3:
     print('March')
 elif n == 4:
     print('April')
+<<<<<<< HEAD
 elif n == 5:
     print('May')
 elif n == 6:
@@ -19,3 +20,5 @@ elif n == 9:
     print('September')
 elif n == 10:
     print('October')
+=======
+>>>>>>> new-developer
