@@ -11,3 +11,12 @@ elif n == 5:
     print('May')
 elif n == 6:
     print('June')
+    print('June')
+elif n == 7:
+    print('July')
+elif n == 8:
+    print('August')
+elif n == 9:
+    print('September')
+elif n == 10:
+    print('October')
