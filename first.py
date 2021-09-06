@@ -17,3 +17,5 @@ elif n == 8:
     print('August')
 elif n == 9:
     print('September')
+elif n == 10:
+    print('October')
